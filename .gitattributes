@@ -1,1 +1,2 @@
 reddit/subreddits/nba_submissions.zst filter=lfs diff=lfs merge=lfs -text
+2019_to_2020_submissions.txt filter=lfs diff=lfs merge=lfs -text
